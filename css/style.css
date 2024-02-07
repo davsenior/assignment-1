@@ -18,7 +18,7 @@ body {
 
 /* Header styling */
 header {
-    background-color: #000;
+    background-color: #111;
     color: #857560; 
     text-align: center;
     padding: 1em 0;
@@ -44,14 +44,14 @@ article {
 
 /* Footer styling */
 footer {
-    background-color: #000;
+    background-color: #111;
     color: #fff;
     padding: 10px;
     text-align: center;
 }
 
 h1 {
-    font-size: 2.7em;
+    font-size: 2.5em;
 }
 
 /* Title/Header text styling */
