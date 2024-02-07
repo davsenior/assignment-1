@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200&family=Rubik+Doodle+Shadow&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Body styling */
+body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.6;
+    /* CREDIT FOR BACKGROUND IMAGE BELONGS TO https://www.nonesuch.com/journal/black-keys-el-camino-10th-anniversary-deluxe-edition-four-cd-set-available-nonesuch-2021-12-03 */
+    background-image: url('../images/image1.jpeg');
+    background-size: cover;
+    background-position: center; 
+}
+
+/* Header styling */
+header {
+    background-color: #000;
+    color: #857560; 
+    text-align: center;
+    padding: 1em 0;
+}
+
+/* Main content styling */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #222; 
+    border-radius: 10px;
+}
+
+/* Section (Lyrics) styling */
+section {
+    margin-bottom: 20px;
+}
+
+article {
+    margin-bottom: 15px;
+}
+
+/* Footer styling */
+footer {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.7em;
+}
+
+/* Title/Header text styling */
+h1, h2 {
+    font-family: 'Rubik Doodle Shadow', system-ui;
+    font-weight: bold;
+    color: #bcaf9f; 
+}
+
+/* Main text styling */
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1em;
+    color: #d4d1d1; 
+}
+/* Link text styling */
+a {
+    color: #bcaf9f;
+    text-decoration: none;
+}
